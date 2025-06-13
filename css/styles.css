@@ -1,0 +1,76 @@
+*{
+    font-family: "Roboto", "Raleway";
+}
+
+
+.a
+ {
+    text-decoration: none;
+    
+ 
+/* Navigation section */
+}
+.header-nav
+{
+    color: #2e2f42;
+    
+}
+.header-nav-logo
+
+{
+font-family: Relway, sans-serif;
+color: #2e2f42;
+text-transform: uppercase;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+
+}
+.header-nav-logo-raleway 
+{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+}
+.header-nav-list
+{
+    font-family: "Roboto", sans-serif;
+    color:#2e2f42;
+}
+.header-nav-list-title
+{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+}
+.header-nav-list-title
+{ color: #2e2f42;}
+/* Navigation section  end*/
+
+/* Adress section */
+ 
+.header-adress
+{ 
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+.header-adress-item-mail{
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;}
+.header-adrees-item-phone{
+    color: #434455;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;}
+
+/* Adress section  end*/
