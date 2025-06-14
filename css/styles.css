@@ -127,7 +127,13 @@ color: #FFFFFF;}
 {
     font-family: "Roboto",sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
+.about-title
+{
+    text-transform: capitalize;
+}
+
 .about-list-title
  {
     font-weight: 500;
@@ -143,6 +149,7 @@ color: #FFFFFF;}
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color
 }
 /* About section end */
 /* Workers section */
