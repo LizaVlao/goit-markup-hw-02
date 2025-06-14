@@ -105,7 +105,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;}
 
-.button-baner 
+.button-baner
 {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -114,6 +114,12 @@ color: #FFFFFF;}
     line-height: 150%;
     letter-spacing: 0.04em;
     color: white;
+    cursor: pointer;
+}
+.button-baner:hover,
+.button-baner:focus
+{
+    background-color: #404BBF;
 }
 /* Header section end */
 /* About section */
