@@ -52,13 +52,20 @@ letter-spacing: 0.03em;
     color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
 .header-nav-list-title-link
 { text-decoration: overline;
-color: #2e2f42}
+color: #2e2f42;
+}
+.header-nav-list-title:hover,.header-nav-list-title:focus
+{ 
+    color: #404bbf;
+}
+
+
 /* Navigation section  end*/
 
 /* Adress section */
