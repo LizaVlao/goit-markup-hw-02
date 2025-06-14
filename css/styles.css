@@ -74,21 +74,17 @@ color: #2e2f42;
 .contacts
 { font-style: normal;
 }
-.contacts-item-mail
-{
-    color: #434455;
-    font-weight: 400;
+.contacts-link
+{   color: #2e2f42;
     font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
+.contacts-link:hover,
+.contacts-link:focus
+{ 
+    color: #404bbf;
 }
-.contacts-item-phone
-{
-    color: #434455;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-}
+
 
 /* Adress section  end*/
 
