@@ -57,7 +57,7 @@ letter-spacing: 0.03em;
     text-decoration: none;
 }
 .header-nav
-{ text-decoration: overline;
+{ 
 color: #2e2f42;
 }
 .nav-link:hover,
