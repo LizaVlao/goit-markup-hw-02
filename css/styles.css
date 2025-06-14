@@ -60,7 +60,8 @@ letter-spacing: 0.03em;
 { text-decoration: overline;
 color: #2e2f42;
 }
-.header-nav-list-title:hover,.header-nav-list-title:focus
+.header-nav-list-title-link:hover,
+.header-nav-list-title-link:focus
 { 
     color: #404bbf;
 }
