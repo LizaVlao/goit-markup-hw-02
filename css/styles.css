@@ -69,7 +69,10 @@ color: #404bbf;}
     color: #434455;
     font-style: normal;
 }
+.header-adress-list
+{font-style: normal;
 
+}
 .header-adress-item-mail
 {
     color: #434455;
@@ -227,7 +230,7 @@ color: #434455;
 {font-family:"Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-line-height: 150%;
+line-height: 1.5;
 letter-spacing: 0.02em;
-color:#F4F4FD
+color:#F4F4FD;
 }
