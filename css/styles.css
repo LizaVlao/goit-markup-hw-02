@@ -108,12 +108,12 @@ color: #FFFFFF}
 .button-baner
 {
     background-color: #4D5AE5;
-    font-family: "Roboto",sans43-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.04em;;
-    color: white;
+    color: #FFFFFF;
     cursor: pointer;
 }
 .button-baner:hover,
@@ -227,8 +227,8 @@ color: #434455;
     background-color: #2e2f42;
     color: #F4F4FD;
 }
-.logo-footer 
-{   font-family: "Raleway", sans-serif;
+.logo-footer
+{   font-family: "Relaway", sans-serif;
     color: #4D5AE5;
     text-transform: uppercase;
     font-weight: 700;
@@ -236,19 +236,13 @@ color: #434455;
     line-height: 117%;
     letter-spacing: 0.03em;
 }
-.logo-footer-span 
+.logo-footer-raleway 
 {
     font-family: "Raleway", sans-serif;
     color: #F4F4FD;
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
 }
 .footer-text 
 {font-family:"Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
