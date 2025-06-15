@@ -162,9 +162,12 @@ color: #FFFFFF}
     text-align: center;
     letter-spacing: 0.02em;
 }
-.workers-list
+.workers-title 
 {
-    background-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
 }
 .workers-list
 { 
@@ -173,6 +176,7 @@ color: #FFFFFF}
     line-height: 111%;   
     text-transform: capitalize;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 .worker-list-title 
 {
@@ -187,6 +191,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 color: #434455;
+letter-spacing: 0.02em;
 }
 /* Workers section end */
 
